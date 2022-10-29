@@ -77,9 +77,6 @@ export function HEADER(...args) {
 export function FOOTER(...args) {
 	return TAG('footer', ...args);
 }
-export function HEADER(...args) {
-	return TAG('header', ...args);
-}
 export function NAV(...args) {
 	return TAG('nav', ...args);
 }

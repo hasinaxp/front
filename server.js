@@ -12,6 +12,7 @@ const mimeLookup = {
     '.png' : 'image/png',
 };
 
+
 const server = http.createServer((req, res) => {
     const fpath = `${__dirname}/${req.url}`;
     if(fs.existsSync(fpath))
