@@ -1,0 +1,18 @@
+{
+  "name": "sp-front",
+  "version": "1.0.0",
+  "description": "a fast zero-dependency lightweight object based frontend framework",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "frontend",
+    "zero-dependency",
+    "lightweight-library",
+    "object based"
+  ],
+  "scripts": {
+  },
+ "author": "spandan mondal",
+  "license": "ISC",
+  "homepage": "https://github.com/hasinaxp/front"
+}
